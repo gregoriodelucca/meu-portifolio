@@ -1,7 +1,7 @@
 // Descrição da seção Sobre
 const descricao = document.getElementById("descricao");
 if (descricao) {
-  descricao.textContent = "Desenvolvedor Front-End Angular, certificado e aprovado pelo Banco Santander, Banco Pan, NTT Data e iFood.";
+  descricao.textContent = "Desenvolvedor Front-End Angular, certificado e aprovado pelo Banco Santander, Banco Pan, NTT Data e iFood estou iniciando minha nova jornada desenvolvimento front end, e estou focado em angular, aws e ux/ui designer, sou desenvolvedor web aluno da dio";
 }
 
 // Array de projetos
@@ -13,16 +13,16 @@ const projetos = [
     link: "https://ribeiroveiculossp.vercel.app/"
   },
   {
-    titulo: "App ToDo",
-    descricao: "Aplicativo de tarefas com funcionalidades CRUD e autenticação.",
-    imagem: "img/projeto2.png",
-    link: "https://github.com/seu-usuario/projeto2"
+    titulo: "aasoft",
+    descricao: "aasoft front end erp comercial ",
+    imagem: "",
+    link: "https://www.aasoft.com.br/"
   },
   {
-    titulo: "API REST",
-    descricao: "API RESTful desenvolvida em Spring Boot com banco de dados MySQL.",
+    titulo: "front end com santander ",
+    descricao: "exercicios santander front end ",
     imagem: "img/projeto3.png",
-    link: "https://github.com/seu-usuario/projeto3"
+    link: "https://github.com/gregoriodelucca/ProjetosExerciciosSantander2025"
   }
 ];
 
